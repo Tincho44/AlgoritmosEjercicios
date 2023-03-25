@@ -58,3 +58,24 @@ public class Alumno {
 // e) El error aca es que se esta buscando hacer un casting (cambiar de int a string en este caso)
 // Se corrigio usando el metodo toString, para que ahora el int proporcionado sea un string.
 
+
+
+public class MartinUcu {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        Alumno martin = new Alumno("martin");
+        System.out.println(martin.getNombreAdmiracion());
+            
+        System.out.println(martin.recorrer(martin.getNombreAdmiracion()));
+        
+        System.out.println(martin.getValor());
+
+        System.out.println(martin.getPrimerCaracter(martin.getNombreAdmiracion()));
+        
+        System.out.println(martin.paraAString(3).getClass().getName());
+            
+    }
+}
