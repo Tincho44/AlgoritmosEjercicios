@@ -1,4 +1,6 @@
-### Ejercicio 1)
+/*
+
+Ejercicio 1)
 
 No, yo pac.
 
@@ -10,13 +12,17 @@ Vos zacata pac.
 
 Yo pac.
 
-### Ejercicio 2)
+*/
+/*
+Ejercicio 2)
 
 a)
 
 La de main
 
 b)
+
+*/
 
 public class Zumbido 
 {
@@ -45,7 +51,7 @@ public class Zumbido
 		}
 }
 
-Ejercicio 3)
+// Ejercicio 3)
 
 public class Multsuma
 {
