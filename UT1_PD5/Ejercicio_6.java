@@ -6,21 +6,21 @@
 
 ● subSequence -> Le pasas como parametros el inicio y el fin del string y te retorna los valores comprendidos en ese rango.
 
-● trim -> 
+● trim -> Le pasas como parametro algo, luego cada vez que encuentre ese parametro, de corta el array y te va generando sub cadenas.
 
-● toLowerCase -> 
+● toLowerCase -> Pasa los caracteres de un string a minuscula
 
-● toUpperCase -> 
+● toUpperCase -> Pasa los caracteres de un string a mayuscula
 
-● indexOf –>
+● indexOf –> Se obtiene la primera posicion del parametro que le pases
 
-● lastIndexOf –>
+● lastIndexOf –> Similar a indexOf pero esta vez retorna la ultima posicion en la que se encuentre el parametro
 
-● contains ->
+● contains -> contains te dice si contiene o no el parametro que le pusiste
 
-● replace -> 
+● replace -> Le das 2 parametros, el que reemplaza y el remplazado
 
-● replaceAll ->
+● replaceAll -> la diferencia con replace es que aca le podes pasar un parametro mas extenso, tipo [aeiou] 
 
 */ 
 
