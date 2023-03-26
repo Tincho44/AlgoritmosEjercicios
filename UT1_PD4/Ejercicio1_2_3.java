@@ -78,6 +78,8 @@ Los objetos creados se almacenan en el heap, pero cuando estos objetos ya no son
 
 3)
 
+*/
+
 NumberHolder nh = new NumberHolder();
 nh.anInt = 10;
 nh.aFloat = 3.14f;
